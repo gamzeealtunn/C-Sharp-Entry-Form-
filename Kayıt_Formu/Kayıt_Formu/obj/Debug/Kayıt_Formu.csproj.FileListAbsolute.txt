@@ -1,0 +1,10 @@
+C:\Users\gamze\source\repos\Kayıt_Formu\Kayıt_Formu\bin\Debug\Kayıt_Formu.exe.config
+C:\Users\gamze\source\repos\Kayıt_Formu\Kayıt_Formu\bin\Debug\Kayıt_Formu.exe
+C:\Users\gamze\source\repos\Kayıt_Formu\Kayıt_Formu\bin\Debug\Kayıt_Formu.pdb
+C:\Users\gamze\source\repos\Kayıt_Formu\Kayıt_Formu\obj\Debug\Kayıt_Formu.csproj.AssemblyReference.cache
+C:\Users\gamze\source\repos\Kayıt_Formu\Kayıt_Formu\obj\Debug\Kayıt_Formu.Form1.resources
+C:\Users\gamze\source\repos\Kayıt_Formu\Kayıt_Formu\obj\Debug\Kayıt_Formu.Properties.Resources.resources
+C:\Users\gamze\source\repos\Kayıt_Formu\Kayıt_Formu\obj\Debug\Kayıt_Formu.csproj.GenerateResource.cache
+C:\Users\gamze\source\repos\Kayıt_Formu\Kayıt_Formu\obj\Debug\Kayıt_Formu.csproj.CoreCompileInputs.cache
+C:\Users\gamze\source\repos\Kayıt_Formu\Kayıt_Formu\obj\Debug\Kayıt_Formu.exe
+C:\Users\gamze\source\repos\Kayıt_Formu\Kayıt_Formu\obj\Debug\Kayıt_Formu.pdb
